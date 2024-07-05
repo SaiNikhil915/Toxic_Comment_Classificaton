@@ -49,7 +49,7 @@ The table below summarizes the F1 scores of the tested models on the six labels 
 </div>
 
 <p align="center">
-  <img src="img/toxicity_results.png" alt="F1 Score Performance by Label and Model" width="820"/>
+  <img src="toxicity_results.jpg" alt="F1 Score Performance by Label and Model" width="820"/>
 </p>
 
 
